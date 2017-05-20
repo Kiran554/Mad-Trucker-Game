@@ -1,5 +1,3 @@
-![](http://i.imgur.com/DUiL9yn.png)
-
 # Mad Trucker Game using React/Redux/Webpack/Bootstrap/Saas
 
 ## Getting Started
