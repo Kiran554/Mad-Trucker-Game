@@ -34,7 +34,7 @@
     "react-redux": "^4.4.5",
     "redux": "^3.5.2",
     "redux-logger": "^2.6.1",
-    "redux-promise": "^0.5.3",
+    "redux-promise": "^0.6.0",
     "redux-thunk": "^2.1.0",
     "sass-loader": "^4.0.0",
     "style-loader": "^0.13.1",
